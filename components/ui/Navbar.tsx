@@ -12,7 +12,7 @@ export const Navbar = () => {
             alignItems: 'center',
             justifyContent: 'start',
             padding: '0 20px',
-            backgroundColor: theme?.colors.gray200.value
+            backgroundColor: theme?.colors.gray100.value
         }}>
             <Image
                 src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/445.png"
